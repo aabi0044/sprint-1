@@ -1,0 +1,48 @@
+.post-jobs-useless-container {
+    padding-top: 7%;
+}
+.post-jobs-inner-container {
+    background: #fff;
+}
+
+.post-jobs-inner-div {
+    background: #fff;
+    margin-top: -60px;
+    border: 1px solid #000;
+}
+
+
+.active-tab {
+    
+    color: #04b3fd;
+    background-color: white;
+font-weight: 700;
+    box-shadow:
+     
+      0 9px 0 #04b3fd inset;
+padding:12px 70px ;
+
+}
+
+.non-active-tab {
+    padding:12px 70px ;
+    border: 1px solid #eeeeee;
+    background-color: white;
+    font-weight: 600;
+    /* box-sizing: content-box; */
+}
+.form-input{
+    background: #f0f0f0;
+}
+.text-left{
+    color: 
+    #375e65;
+}
+.checkbox{
+    width: 15px;
+    height: 15px;
+
+}
+.visa-note{
+    font-size: 12px;
+}
